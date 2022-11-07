@@ -14,7 +14,7 @@ Start by creating the MHN Admin VM via your cloud provider. The VM needs to have
 
 That last requirement is generally the only one that may require a specific firewall rule to configure properly, because those ports are non-standard and specific to MHN. Some cloud providers may require you to create the firewall rules separately and then apply them to the VM. Either way, make sure when you create the VM that you can access it via SSH.
 
-<img src="mhn-admin.gif">
+<img src="MHN_server.png">
 
 ### Milestone 2: Install the MHN Admin Application ###
 
