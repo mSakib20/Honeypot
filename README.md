@@ -46,7 +46,7 @@ So, copy the command from the browser page. It should start with wget and end wi
 Now for the fun part: let's attack the honeypot to make sure it's all working. You can use Nmap in Kali Linux and pass it the IP of the honeypot VM (not the IP of the MHN Admin VM):
 
 <img src="attk1.png">
-<img src="attk2png">
+<img src="attk2.png">
 
 ## Notes
 
