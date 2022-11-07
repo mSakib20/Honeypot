@@ -31,6 +31,7 @@ First, create a VM for your first honeypot via your cloud provider. As before, t
 
 This VM will require different ports open, though which ones depend on the specific honeypot being used. To keep things simple, for this VM (and any additional honeypot VMs you create), simply allow incoming traffic from all ports and protocols. Again, this will likely require a firewall rule.
 
+<img src="honeypot1.png">
 
 ### Milestone 4: Install the Honeypot Application ###
 
