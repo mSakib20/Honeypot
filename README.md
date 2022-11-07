@@ -39,15 +39,14 @@ After having established SSH access the new honeypot VM, we need to install the 
 
 So, copy the command from the browser page. It should start with wget and end with a unique token string. Execute this command inside the honeypot VM to install the Dionaea software. It shouldn't take more than a few minutes to complete. When it's done, click back over to the MHN admin console in your browser. From the top nav, choose Sensors >> View sensors and you should see the new honeypot listed.
 
-**Summary:** What does this honeypot simulate and do for a security researcher?
-
-<img src="x-honeypot.gif">
+<img src="sensor.png">
 
 ### Milestone 5: Attack! ###
 
 Now for the fun part: let's attack the honeypot to make sure it's all working. You can use Nmap in Kali Linux and pass it the IP of the honeypot VM (not the IP of the MHN Admin VM):
 
-<img src="x-malware.gif">
+<img src="attk1.png">
+<img src="attk2png">
 
 ## Notes
 
