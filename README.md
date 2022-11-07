@@ -21,7 +21,7 @@ That last requirement is generally the only one that may require a specific fire
 After having established SSH access the MHN Admin VM, the following instructions can be run on the remote VM to install the application. Note: this step may take 30-40 minutes overall. These instructions were adapted from the MHN README
 
 
-<img src="dionaea-honeypot.gif">
+<img src="mhn_admin_application.png">
 
 ### Milestone 3: Create a MHN Honeypot VM ###
 
